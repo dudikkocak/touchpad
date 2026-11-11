@@ -129,6 +129,8 @@ link main.obj user32.lib advapi32.lib /SUBSYSTEM:WINDOWS /ENTRY:wWinMainCRTStart
 
 ## License
 
+MIT License — see LICENSE
+
 Use, modify, and distribute freely. No warranty — use at your own risk.
 
 Visit [Dudik Store](https://dudik.store) to support my work.
